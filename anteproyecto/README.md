@@ -1,6 +1,6 @@
 <div align="center" bgcolor="white">
 
-<img src="img/Logo-prototipo.png">
+<img src="img/Logo_prototipo.png">
 
 </div>
 
