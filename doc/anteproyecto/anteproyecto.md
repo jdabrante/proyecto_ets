@@ -1,14 +1,6 @@
-<style>
-img {
- width: 80%;
- border: 3px solid rgb(227, 74, 36);
-}
-</style>
-
-
 <div align="center" bgcolor="white">
 
-<img src="img/Logo_prototipo.png">
+<img src="img/Logo_prototipo.png" border="3px solid rgb(227, 74, 36)" width="80%">
 
 </div>
 
@@ -30,26 +22,26 @@ Las siguientes imágenes ejemplifican la idea principal:
 
 <div align="center">
 
-<img src="img/solver1.jpg">
+<img src="img/solver1.jpg" border="3px solid rgb(227, 74, 36)" width="80%">
 
 <br/><br/>
 
-<img src="img/solver2.jpg">
+<img src="img/solver2.jpg" border="3px solid rgb(227, 74, 36)" width="80%">
 
 <div align="justify">
 
-<br/><br/>
+<br/>
 
 A continuación un prototipo de la aplicación:
 
-<br/><br/>
+<br/>
 
 
 </div>
 
 <div align="center">
 
-<img src="img/prototipo_GTOTools.png">
+<img src="img/prototipo_GTOTools.png" border="3px solid rgb(227, 74, 36)" width="80%">
 
 </div>
 
