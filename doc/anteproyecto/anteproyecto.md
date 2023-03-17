@@ -1,3 +1,11 @@
+<style>
+img {
+ width: 80%;
+ border: 3px solid rgb(227, 74, 36);
+}
+</style>
+
+
 <div align="center" bgcolor="white">
 
 <img src="img/Logo_prototipo.png">
@@ -30,7 +38,12 @@ Las siguientes imágenes ejemplifican la idea principal:
 
 <div align="justify">
 
-A continuación un prototipo de la aplicación
+<br/><br/>
+
+A continuación un prototipo de la aplicación:
+
+<br/><br/>
+
 
 </div>
 
