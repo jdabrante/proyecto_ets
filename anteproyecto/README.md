@@ -1,8 +1,12 @@
-<div align="center">
+<div align="center" bgcolor="white">
 
-# GTOTools
+<img src="img/Logo-prototipo.png">
 
 </div>
+
+<hr/>
+
+<br/><br/>
 
 <div align="justify">
 
@@ -14,15 +18,27 @@ Las siguientes imágenes ejemplifican la idea principal:
 
 </div>
 
-<br><br>
+<br/><br/>
 
 <div align="center">
 
 <img src="img/solver1.jpg">
 
-<br><br>
+<br/><br/>
 
 <img src="img/solver2.jpg">
+
+<div align="justify">
+
+A continuación un prototipo de la aplicación
+
+</div>
+
+<div align="center">
+
+<img src="img/prototipo_GTOTools.png">
+
+</div>
 
 </div>
 
