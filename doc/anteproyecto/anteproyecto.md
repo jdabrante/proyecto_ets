@@ -1,14 +1,18 @@
 <div align="center" bgcolor="white">
 
-<img src="img/Logo_prototipo.png" border="3px solid rgb(227, 74, 36)" width="80%">
+<img src="img/Logo_prototipo.png" border="3px solid rgb(227, 74, 36)" width="60%">
 
 </div>
 
 <hr/>
 
-<br/><br/>
 
 <div align="justify">
+
+## Descripción del problema:
+
+## Solución propuesta:
+
 
 Este proyecto tiene como objetivo la creación de una aplicación web que calcule las probabilidades de ganar una mano de poker, facilitando al jugador la toma de decisiones en sus partidas.
 
