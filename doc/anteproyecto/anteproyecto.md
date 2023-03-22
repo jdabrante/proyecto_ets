@@ -47,7 +47,7 @@ A continuación un prototipo de la aplicación:
 
 </div>
 
-<div align="center">
+<div align="center" bgcolor="white">
 
 <img src="img/prototipo_GTOTools.png">
 
