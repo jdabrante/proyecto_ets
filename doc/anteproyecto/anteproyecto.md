@@ -1,14 +1,6 @@
-<style>
-img {
- width: 80%;
- border: 3px solid rgb(227, 74, 36);
-}
-</style>
-
-
 <div align="center" bgcolor="white">
 
-<img src="img/Logo_prototipo.png">
+<img src="img/Logo_prototipo.png" border="3px solid rgb(227, 74, 36)" width="80%">
 
 </div>
 
@@ -18,7 +10,7 @@ img {
 
 <div align="justify">
 
-Este proyecto tiene como objetivo la creación de una aplicación web que calcule las probabilidades de ganar una mano poker, facilitando al jugador la toma de decisiones en sus partidas.
+Este proyecto tiene como objetivo la creación de una aplicación web que calcule las probabilidades de ganar una mano de poker, facilitando al jugador la toma de decisiones en sus partidas.
 
 La aplicación constará de una interfaz gráfica donde se mostrará un mapa de manos posibles, mostrando mediante un código de colores la probabilidad de ganar con tu mano actual y la apuesta realizada.
 
@@ -30,26 +22,26 @@ Las siguientes imágenes ejemplifican la idea principal:
 
 <div align="center">
 
-<img src="img/solver1.jpg">
+<img src="img/solver1.jpg" border="3px solid rgb(227, 74, 36)" width="80%">
 
 <br/><br/>
 
-<img src="img/solver2.jpg">
+<img src="img/solver2.jpg" border="3px solid rgb(227, 74, 36)" width="80%">
 
 <div align="justify">
 
-<br/><br/>
+<br/>
 
 A continuación un prototipo de la aplicación:
 
-<br/><br/>
+<br/>
 
 
 </div>
 
 <div align="center" bgcolor="white">
 
-<img src="img/prototipo_GTOTools.png">
+<img src="img/prototipo_GTOTools.png" border="3px solid rgb(227, 74, 36)" width="80%">
 
 </div>
 
