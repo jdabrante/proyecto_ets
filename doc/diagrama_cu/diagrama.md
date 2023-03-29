@@ -105,42 +105,42 @@ El siguiente diagrama se corresponde con el diagrama de casos de uso de este pro
 | Autor            | _Raúl Rodríguez Farrais_                                                                                                              |
 | Fecha            | _27/03/23_                                                                                                                            |
 
-| Caso de Uso	CU.7 | Guardar partida                                                                                                                      |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Fuentes          | El caso de uso se sustenta en este documento: ttps://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
-| Actor            | Jugador                                                                                                                              |
-| Descripción      |                                                                                                                                      |
-| Flujo básico     |                                                                                                                                      |
-| Pre-condiciones  | El jugador debe de tener una partida comenzada (CU.6)                                                                                |
-| Post-condiciones |                                                                                                                                      |
-| Requerimientos   |                                                                                                                                      |
-| Notas            |                                                                                                                                      |
-| Autor            | _Juan Dimas Abrante Hernández_                                                                                                       |
-| Fecha            | _3/02/23_                                                                                                                            |
+| Caso de Uso	CU.7 | Guardar partida                                                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Fuentes          | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Actor            | Jugador                                                                                                                               |
+| Descripción      |                                                                                                                                       |
+| Flujo básico     |                                                                                                                                       |
+| Pre-condiciones  | El jugador debe de tener una partida comenzada (CU.6)                                                                                 |
+| Post-condiciones |                                                                                                                                       |
+| Requerimientos   |                                                                                                                                       |
+| Notas            |                                                                                                                                       |
+| Autor            | _Juan Dimas Abrante Hernández_                                                                                                        |
+| Fecha            | _29/02/23_                                                                                                                            |
 
-| Caso de Uso	CU.8 | Calculadora                                                                                                                                    |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fuentes          | El caso de uso se sustenta en [este documento] https://github.com/jpexposito/ets/tree/main/diagramas-comportamiento/diagramas-cu/tareas/tarea7 |
-| Actor            | Sistema                                                                                                                                        |
-| Descripción      | La calculadora permite realizar diferentes operaciones matemáticas                                                                             |
-| Flujo básico     | Cuando el profesor va a introducir una nota se lanza automáticamente la calculadora                                                            |
-| Pre-condiciones  | Estar completando el acta (CU2)                                                                                                                |
-| Post-condiciones |                                                                                                                                                |
-| Requerimientos   |                                                                                                                                                |
-| Notas            |                                                                                                                                                |
-| Autor            | _Javier García Hernández_                                                                                                                      |
-| Fecha            | _3/02/23_                                                                                                                                      |
+| Caso de Uso	CU.8 | Guardar resultado mano                                                                                                                |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Fuentes          | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Actor            | Sistema                                                                                                                               |
+| Descripción      | Se guarda el resultado de la mano jugada                                                                                              |
+| Flujo básico     | Mostrar probabilidades > Guardar resultado mano                                                                                       |
+| Pre-condiciones  | La partida tiene que estar iniciada (CU.6)                                                                                            |
+| Post-condiciones |                                                                                                                                       |
+| Requerimientos   |                                                                                                                                       |
+| Notas            |                                                                                                                                       |
+| Autor            | _Juan Dimas Abrante Hernández_                                                                                                        |
+| Fecha            | _29/03/23_                                                                                                                            |
 
-| Caso de Uso	CU.8 | Calculadora                                                                                                                                    |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fuentes          | El caso de uso se sustenta en [este documento] https://github.com/jpexposito/ets/tree/main/diagramas-comportamiento/diagramas-cu/tareas/tarea7 |
-| Actor            | Sistema                                                                                                                                        |
-| Descripción      | La calculadora permite realizar diferentes operaciones matemáticas                                                                             |
-| Flujo básico     | Cuando el profesor va a introducir una nota se lanza automáticamente la calculadora                                                            |
-| Pre-condiciones  | Estar completando el acta (CU2)                                                                                                                |
-| Post-condiciones |                                                                                                                                                |
-| Requerimientos   |                                                                                                                                                |
-| Notas            |                                                                                                                                                |
-| Autor            | _Javier García Hernández_                                                                                                                      |
-| Fecha            | _3/02/23_                                                                                                                                      |
+| Caso de Uso	CU.9 | Terminar partida                                                                                                                      |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Fuentes          | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Actor            | Jugador                                                                                                                               |
+| Descripción      | Se finaliza la partida dejándose de guardar las manos                                                                                 |
+| Flujo básico     |                                                                                                                                       |
+| Pre-condiciones  | Tener una partida iniciada (CU.6)                                                                                                     |
+| Post-condiciones |                                                                                                                                       |
+| Requerimientos   |                                                                                                                                       |
+| Notas            | Los datos no guardados de la partida se pierden                                                                                       |
+| Autor            | _Juan Dimas Abrante Hernández_                                                                                                        |
+| Fecha            | _29/03/23_                                                                                                                            |
 </div>
