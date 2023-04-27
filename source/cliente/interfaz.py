@@ -1,5 +1,7 @@
 from datetime import datetime
-PATH = "odds"
+
+db_path = "/home/usuario/GitHub/pro/cliente/data/odds.dat"
+
 
 class Round:
     def __init__(self, hand: str):
@@ -26,11 +28,14 @@ class Game:
 
     def init_hands_odds(self):
         hands_odds = {}
-        with open(PATH) as f:
+        with open(db_path) as f:
             for line in f:
                 clean_line = line.strip().split(":")
                 user_hand, rival_hand, odds = clean_line
-                hands_odds[user_hand][rival_hand] = odds
+                if user_hand in hands_odds:
+                    hands_odds[user_hand] += {rival_hand: odds}
+                else:
+                    hands_odds[user_hand] = {rival_hand: odds}
         return hands_odds
 
     def calc_duration(self):
@@ -46,19 +51,9 @@ class Map:
     def __init__(self, round, game):
         self.odds = self.get_odds(round.hand, game)
 
-
-    def get_odds(self,round, game):
+    def get_odds(self, round, game):
         return game.hands_odds[round.hand]
 
 
-
-
-test_object = Game("hola")
-test_round = Round("AA")
-test_object.add_round(test_round)
-print(test_object.rounds[0])
-test_round = "hola"
-print(test_object.rounds[0])
-test_round1 = Round("AK")
-test_object.add_round(test_round1)
-print(test_object.rounds[1])
+my_game = Game("My game")
+print(my_game.hands_odds)
