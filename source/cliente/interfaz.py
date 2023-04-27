@@ -1,6 +1,6 @@
 from datetime import datetime
 
-db_path = "/home/usuario/GitHub/pro/cliente/data/odds.dat"
+db_path = "/home/usuario/GitHub/proyecto_ets/source/cliente/data/odds.dat"
 
 
 class Round:
@@ -54,6 +54,12 @@ class Map:
     def get_odds(self, round, game):
         return game.hands_odds[round.hand]
 
+    def __str__(self):
+        return self.odds
+
 
 my_game = Game("My game")
-print(my_game.hands_odds)
+current_round = Round("AHAS")
+my_game.add_round(current_round)
+loaded_map = Map(current_round, my_game)
+print(loaded_map)
