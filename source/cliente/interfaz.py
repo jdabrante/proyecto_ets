@@ -1,6 +1,9 @@
+import filecmp
+from pathlib import Path
 from datetime import datetime
 
-db_path = "/home/usuario/GitHub/proyecto_ets/source/cliente/data/odds.dat"
+
+db_path = "/home/dimas/GitHub/proyecto_ets/source/cliente/data/odds.dat"
 
 
 class Round:
@@ -33,7 +36,7 @@ class Game:
                 clean_line = line.strip().split(":")
                 user_hand, rival_hand, odds = clean_line
                 if user_hand in hands_odds:
-                    hands_odds[user_hand] += {rival_hand: odds}
+                    hands_odds[user_hand][rival_hand] = odds
                 else:
                     hands_odds[user_hand] = {rival_hand: odds}
         return hands_odds
@@ -49,13 +52,13 @@ class Game:
 
 class Map:
     def __init__(self, round, game):
-        self.odds = self.get_odds(round.hand, game)
+        self.odds = self.get_odds(round, game)
 
     def get_odds(self, round, game):
         return game.hands_odds[round.hand]
 
     def __str__(self):
-        return self.odds
+        return f"{self.odds}"
 
 
 my_game = Game("My game")
