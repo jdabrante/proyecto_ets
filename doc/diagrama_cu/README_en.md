@@ -1,10 +1,7 @@
-<div style="display: flex; flex-direction: row; justify-content: flex-end;">
-  <div style="padding: 0.4vw;">
+<div align="right">
     <a href="README.md">Español</a>
-  </div>
-  <div style="padding: 0.4vw;">
+    <span> / </span>
     <a href="README_en.md">English</a>
-  </div>
 </div>
 
 <div align="center">
