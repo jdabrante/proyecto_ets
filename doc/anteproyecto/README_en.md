@@ -11,7 +11,7 @@
 
 ## Descripción del problema:
 
-
+In poker people take a lot of decesisions that involve complex mathematical calculations. Even for advanced players retaing all the information could be a challenge. 
 
 En el poker se toman multitud de decisiones que involucran cálculos matemáticos complejos. Incluso para los jugadores avanzados retener toda esta información puede ser engorroso. Por si esto fuera poco, existe un tiempo límite para la toma de decisiones, por lo que en muchas ocasiones es necesario sacrificar precisión por velocidad.
 
