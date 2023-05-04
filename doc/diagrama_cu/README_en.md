@@ -1,11 +1,13 @@
 <div align="center">
 
-# Use case diagram
-  
-<div>
-  <a href='README.md'>Español</a>
+<div style="float: right;">
+  <a href="README.md">
+    <img style="width: 6vw;" src="img/es.png">    
+  </a>
 </div>
 
+# Use case diagram
+  
 </div>
 
 <div align="justify">
