@@ -1,6 +1,10 @@
 <div align="center">
 
 # Diagrama Casos de Uso
+  
+<div>
+  <a href='README_en.md'>English</a>
+</div>
 
 </div>
 
