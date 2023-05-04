@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: flex-end;">
+<div style="display: flex; flex-direction: row; justify-content: flex-end;">
   <div style="padding: 0.4vw;">
     <a href="README.md">Español</a>
   </div>
