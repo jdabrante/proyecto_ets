@@ -1,6 +1,10 @@
 <div align="center">
 
 # Use case diagram
+  
+<div>
+  <a href='README.md'>Español</a>
+</div>
 
 </div>
 
