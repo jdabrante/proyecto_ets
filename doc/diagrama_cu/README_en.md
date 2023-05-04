@@ -1,7 +1,10 @@
-<div style="float: right;">
-  <a href="README.md">
-    <img style="width: 6vw;" src="img/es.png">    
-  </a>
+<div style="display: flex; justify-content: flex-end;">
+  <div style="padding: 0.4vw;">
+    <a href="README.md">Español</a>
+  </div>
+  <div style="padding: 0.4vw;">
+    <a href="README_en.md">English</a>
+  </div>
 </div>
 
 <div align="center">
