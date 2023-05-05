@@ -4,7 +4,7 @@
 
 </div>
 
-<div style="background: white">
+<div aling="center" style="background: white">
 
 <img src="doc/anteproyecto/img/Logo_prototipo.png">
 
