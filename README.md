@@ -1,3 +1,9 @@
+<div align="right">
+
+<a>Español</a> / <a>Inglés</a>
+
+</div>
+
 <div style="background: white">
 
 <img src="doc/anteproyecto/img/Logo_prototipo.png">
