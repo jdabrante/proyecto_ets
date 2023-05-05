@@ -1,4 +1,8 @@
+<div align="right">
+
 <a href="README.md">Español</a> / <a href="README_en.md">Inglés</a>
+
+</div>
 
 <div align="center" bgcolor="white">
 
