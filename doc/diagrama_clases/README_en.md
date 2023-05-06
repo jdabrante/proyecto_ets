@@ -4,6 +4,6 @@
 
 </div>
 
-# Diagrama de clases del proyecto
+# Class diagram of the project
 
 <img src="diagrama_clases.png">

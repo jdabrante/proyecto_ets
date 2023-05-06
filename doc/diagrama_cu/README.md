@@ -1,7 +1,13 @@
+<div align="right">
+    <a href="README.md">Español</a>
+    <span> / </span>
+    <a href="README_en.md">English</a>
+</div>
+
 <div align="center">
 
 # Diagrama Casos de Uso
-
+  
 </div>
 
 <div align="justify">
@@ -30,7 +36,7 @@ El siguiente diagrama se corresponde con el diagrama de casos de uso de este pro
 
 | Caso de Uso	CU.1 | Indicar mano                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fuentes          | El caso de uso se sustenta en el siguiente documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Fuentes          | El caso de uso se sustenta en el siguiente documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README.md |
 | Actor            | Jugador                                                                                                                                       |
 | Descripción      | El jugador indica que mano tiene en ese momento                                                                                               |
 | Flujo básico     |                                                                                                                                               |
@@ -43,7 +49,7 @@ El siguiente diagrama se corresponde con el diagrama de casos de uso de este pro
 
 | Caso de Uso	CU.2 | Importar datos                                                                                                                                |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fuentes          | El caso de uso se sustenta en el siguiente documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Fuentes          | El caso de uso se sustenta en el siguiente documento:  https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README.md |
 | Actor            | Jugador                                                                                                                                       |
 | Descripción      | El jugador selecciona el fichero en base al cual se calcularán las probabilidades de éxtio de la jugada                                       |
 | Flujo básico     |                                                                                                                                               |
@@ -56,7 +62,7 @@ El siguiente diagrama se corresponde con el diagrama de casos de uso de este pro
 
 | Caso de Uso	CU.3 | Mostrar probabilidades                                                                                                                        |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fuentes          | El caso de uso se sustenta en el siguiente documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Fuentes          | El caso de uso se sustenta en el siguiente documento:  https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README.md|
 | Actor            | Sistema                                                                                                                                       |
 | Descripción      | Según la mano indicada por el jugador, se busca, en el fichero indicado por el jugador, la probabilidad de ganar con dicha mano               |
 | Flujo básico     |                                                                                                                                               |
@@ -69,7 +75,7 @@ El siguiente diagrama se corresponde con el diagrama de casos de uso de este pro
 
 | Caso de Uso	CU.4 | Analizar partida                                                                                                                      |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Fuentes          | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Fuentes          | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README.md |
 | Actor            | Jugador                                                                                                                               |
 | Descripción      | El jugador puede analizar una partida guardada, selecionandola.                                                                       |
 | Flujo básico     |                                                                                                                                       |
@@ -81,7 +87,7 @@ El siguiente diagrama se corresponde con el diagrama de casos de uso de este pro
 
 | Caso de Uso	CU.5 | Cargar partida                                                                                                                        |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Fuentes          | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Fuentes          | El caso de uso se sustenta en este documento:  https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README.md |
 | Actor            | Jugador                                                                                                                               |
 | Descripción      | Se genera un nuevo objeto a partir del fichero importado                                                                              |
 | Flujo básico     |                                                                                                                                       |
@@ -94,7 +100,7 @@ El siguiente diagrama se corresponde con el diagrama de casos de uso de este pro
 
 | Caso de Uso	CU.6 | Comenzar partida                                                                                                                      |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Fuentes          | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Fuentes          | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README.md |
 | Actor            | Jugador                                                                                                                               |
 | Descripción      | El jugador indica que las manos, a partir de este momento, forman parte de una misma partida                                          |
 | Flujo básico     |                                                                                                                                       |
@@ -107,7 +113,7 @@ El siguiente diagrama se corresponde con el diagrama de casos de uso de este pro
 
 | Caso de Uso	CU.7 | Guardar partida                                                                                                                       |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Fuentes          | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Fuentes          | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README.md |
 | Actor            | Jugador                                                                                                                               |
 | Descripción      |                                                                                                                                       |
 | Flujo básico     |                                                                                                                                       |
@@ -120,7 +126,7 @@ El siguiente diagrama se corresponde con el diagrama de casos de uso de este pro
 
 | Caso de Uso	CU.8 | Guardar resultado mano                                                                                                                |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Fuentes          | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Fuentes          | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README.md |
 | Actor            | Sistema                                                                                                                               |
 | Descripción      | Se guarda el resultado de la mano jugada                                                                                              |
 | Flujo básico     | Mostrar probabilidades > Guardar resultado mano                                                                                       |
@@ -133,7 +139,7 @@ El siguiente diagrama se corresponde con el diagrama de casos de uso de este pro
 
 | Caso de Uso	CU.9 | Terminar partida                                                                                                                      |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Fuentes          | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Fuentes          | El caso de uso se sustenta en este documento:  https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README.md |
 | Actor            | Jugador                                                                                                                               |
 | Descripción      | Se finaliza la partida dejándose de guardar las manos                                                                                 |
 | Flujo básico     |                                                                                                                                       |
