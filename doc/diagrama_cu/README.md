@@ -1,7 +1,13 @@
+<div align="right">
+    <a href="README.md">Español</a>
+    <span> / </span>
+    <a href="README_en.md">English</a>
+</div>
+
 <div align="center">
 
 # Diagrama Casos de Uso
-
+  
 </div>
 
 <div align="justify">
