@@ -41,7 +41,7 @@ This project aims to create a web application that will help people with the dec
 
 <a href="doc/anteproyecto/README_en.md"> Draft </a>
 
-<a href="doc/diagrama_clase/README_en.md">Class diagram</a>
+<a href="doc/diagrama_clases/README_en.md">Class diagram</a>
 
 <a href="doc/diagrama_cu/README_en.md">Use case diagram</a>
 
