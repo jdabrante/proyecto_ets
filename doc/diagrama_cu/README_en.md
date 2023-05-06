@@ -36,7 +36,7 @@ The following diagram corresponds to the use case diagram of this project.
 
 | Use Case 	CU.1   | Indicate hand                                                                                                                                 |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Source           | The use case is supported by the following document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md  |
+| Source           | The use case is supported by the following document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README_en.md  |
 | Actors           | Player                                                                                                                                        |
 | Description      | The player indicates which hand has at that moment                                                                                            |
 | basic flow       |                                                                                                                                               |
@@ -49,7 +49,7 @@ The following diagram corresponds to the use case diagram of this project.
 
 | Use Case   CU.2 | Import data                                                                                                                                    |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Source           | The use case is supported by the following document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md  |
+| Source           | The use case is supported by the following document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README_en.md  |
 | Actors           | Player                                                                                                                                        |
 | Description      | The player selects the file on the basis of which the probabilities of success of the move will be calculated.                                |
 | basic flow       |                                                                                                                                               |
@@ -62,7 +62,7 @@ The following diagram corresponds to the use case diagram of this project.
 
 | Caso de Uso	CU.3 | Show probabilities                                                                                                                            |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Source           | The use case is supported by the following document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md  |
+| Source           | The use case is supported by the following document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README_en.md  |
 | Actors           | System                                                                                                                                        |
 | Description      | According to the hand indicated by the player, the probability of winning with this hand is searched in the file indicated by the player.     |
 | basic flow       |                                                                                                                                               |
@@ -75,7 +75,7 @@ The following diagram corresponds to the use case diagram of this project.
 
 | Caso de Uso	CU.4 | analyze the item                                                                                                                      |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Source           | The use case is supported by this document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md   |
+| Source           | The use case is supported by this document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README_en.md   |
 | Actors           | Player                                                                                                                                |
 | Description      | The player can analyze a saved game by selecting it.                                                                                  |
 | basic flow       |                                                                                                                                       |
@@ -88,7 +88,7 @@ The following diagram corresponds to the use case diagram of this project.
 
 | Caso de Uso	CU.5 | Load game                                                                                                                             |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Source           | The use case is supported by this document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md   |
+| Source           | The use case is supported by this document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README_en.md   |
 | Actors           | Player                                                                                                                                |
 | Description      | A new object is generated from the imported file.                                                                                     |
 | basic flow       |                                                                                                                                       |
@@ -101,7 +101,7 @@ The following diagram corresponds to the use case diagram of this project.
 
 | Caso de Uso	CU.6 | Start game                                                                                                                            |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Source           | The use case is supported by this document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md   |
+| Source           | The use case is supported by this document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README_en.md   |
 | Actors           | Player                                                                                                                                |
 | Description      | The player indicates that the hands, from this moment on, are part of the same game.                                                  |
 | basic flow       |                                                                                                                                       |
@@ -114,7 +114,7 @@ The following diagram corresponds to the use case diagram of this project.
 
 | Caso de Uso	CU.7 | Save game                                                                                                                             |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Source           | El caso de uso se sustenta en este documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Source           | El caso de uso se sustenta en este documento:https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README_en.md |
 | Actors           | Player                                                                                                                                |
 | Description      |                                                                                                                                       |
 | basic flow       |                                                                                                                                       |
@@ -127,7 +127,7 @@ The following diagram corresponds to the use case diagram of this project.
 
 | Caso de Uso	CU.8 | Save result hand                                                                                                                      |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Source           | The use case is supported by this document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md   |
+| Source           | The use case is supported by this document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README_en.md   |
 | Actors           | System                                                                                                                                |
 | Description      | The result of the played hand is saved                                                                                                |
 | basic flow       | Show odds > Save result hand                                                                                                          |
@@ -140,7 +140,7 @@ The following diagram corresponds to the use case diagram of this project.
 
 | Caso de Uso	CU.9 | End game                                                                                                                              |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Source           | The use case is supported by this document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md   |
+| Source           | The use case is supported by this document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README_en.md   |
 | Actors           | Player                                                                                                                                |
 | Description      | The game is over and the hands are no longer kept.                                                                                    |
 | basic flow       |                                                                                                                                       |
