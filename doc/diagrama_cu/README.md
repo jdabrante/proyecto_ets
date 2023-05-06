@@ -49,7 +49,7 @@ El siguiente diagrama se corresponde con el diagrama de casos de uso de este pro
 
 | Caso de Uso	CU.2 | Importar datos                                                                                                                                |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fuentes          | El caso de uso se sustenta en el siguiente documento: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/anteproyecto.md |
+| Fuentes          | El caso de uso se sustenta en el siguiente documento:  https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README.md |
 | Actor            | Jugador                                                                                                                                       |
 | Descripción      | El jugador selecciona el fichero en base al cual se calcularán las probabilidades de éxtio de la jugada                                       |
 | Flujo básico     |                                                                                                                                               |
