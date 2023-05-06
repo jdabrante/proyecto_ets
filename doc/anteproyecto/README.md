@@ -1,3 +1,9 @@
+<div align="right">
+
+<a href="README.md">Español</a> / <a href="README_en.md">Inglés</a>
+
+</div>
+
 <div align="center" bgcolor="white">
 
 <img src="img/Logo_prototipo.png" border="3px solid rgb(227, 74, 36)" width="60%">
