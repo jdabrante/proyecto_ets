@@ -1,6 +1,6 @@
 <div align="right">
 
-<a href="README.md">Spanish</a> / <a href="README_en.md">English</a>
+<a href="README.md">Español</a> / <a href="README_en.md">English</a>
 
 </div>
 
@@ -18,9 +18,9 @@
 <div align="justify">
 
 
-In poker, people make decisions involving complex mathematical calculations. Even for the profesional players retaining all that information can be a challenge. As if this were not enough, they have a deadline to make decisions, so it is often necessary to sacrifice accuracy for speed.
+In poker, people make decisions involving complex mathematical calculations. Even for the profesional players retaining all that information can be a challenge. As if this were not difficult enough, they are given a very small amount of time to make those decisions, making it often necessary to sacrifice accuracy for speed.
 
-This project aims to create a web application that will help people make decisions
+This project aims to create a web application that will help people with the decision making process.
 
 
 </div>
@@ -39,10 +39,10 @@ This project aims to create a web application that will help people make decisio
 
 ## Index
 
-<a href="doc/anteproyecto/README.md"> Draft </a>
+<a href="doc/anteproyecto/README_en.md"> Draft </a>
 
-<a href="doc/diagrama_clases/README.md">Class diagram</a>
+<a href="doc/diagrama_clases/README_en.md">Class diagram</a>
 
-<a href="doc/diagrama_cu/README.md">Use case diagram</a>
+<a href="doc/diagrama_cu/README_en.md">Use case diagram</a>
 
-<a href="doc/diagrama_entidad_relacion/README.md">Entity-relationship diagram</a>
+<a href="doc/diagrama_entidad_relacion/README_en.md">Entity-relationship diagram</a>
