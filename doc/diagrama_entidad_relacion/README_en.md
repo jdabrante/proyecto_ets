@@ -1,10 +1,10 @@
 <div align="right">
 
-<a href="README.md">Spanish</a> / <a href="README_en.md">English</a>
+<a href="README.md">Español</a> / <a href="README_en.md">English</a>
 
 </div>
 
-# Diagrama entidad-relación 
+# Entity-relationship diagram
 
 <div align="justify">
 
