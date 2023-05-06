@@ -38,7 +38,7 @@ The following diagram corresponds to the use case diagram of this project.
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Source           | The use case is supported by the following document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README_en.md  |
 | Actors           | Player                                                                                                                                        |
-| Description      | The player indicates which hand has at that moment                                                                                            |
+| Description      | The player indicates his current hand.                                                                                           |
 | basic flow       |                                                                                                                                               |
 | Pre-conditions   |                                                                                                                                               |
 | Post-conditions  |                                                                                                                                               |
@@ -73,7 +73,7 @@ The following diagram corresponds to the use case diagram of this project.
 | Author           | _Javier García Hernández_                                                                                                                     |
 | Date             | _27/03/23_                                                                                                                                    |
 
-| Caso de Uso	CU.4 | analyze the item                                                                                                                      |
+| Caso de Uso	CU.4 | Analyze the item                                                                                                                      |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Source           | The use case is supported by this document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README_en.md   |
 | Actors           | Player                                                                                                                                |
@@ -81,7 +81,7 @@ The following diagram corresponds to the use case diagram of this project.
 | basic flow       |                                                                                                                                       |
 | Pre-conditions   |                                                                                                                                       |
 | Post-conditions  |                                                                                                                                       |
-| Requirements     | The file must be in the proper format                                                                                                 |
+| Requirements     | The file must be in the proper format.                                                                                                 |
 | Notes            |                                                                                                                                       |
 | Author           | _Raúl Rodríguez Farrais_                                                                                                              |
 | Date             | _27/03/23_                                                                                                                            |
@@ -129,8 +129,8 @@ The following diagram corresponds to the use case diagram of this project.
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Source           | The use case is supported by this document: https://github.com/jdabrante/proyecto_ets/blob/develop/doc/anteproyecto/README_en.md   |
 | Actors           | System                                                                                                                                |
-| Description      | The result of the played hand is saved                                                                                                |
-| basic flow       | Show odds > Save result hand                                                                                                          |
+| Description      | The result of the played hand is saved.                                                                                                |
+| basic flow       | Show odds > Save hand result.                                                                                                         |
 | Pre-conditions   | Game must be started (CU.6)                                                                                                           |
 | Post-conditions  |                                                                                                                                       |
 | Requirements     |                                                                                                                                       |
@@ -147,7 +147,7 @@ The following diagram corresponds to the use case diagram of this project.
 | Pre-conditions   | Have a game started (CU.6)                                                                                                            |
 | Post-conditions  |                                                                                                                                       |
 | Requirements     |                                                                                                                                       |
-| Notes            | Unsaved game data lost                                                                                                                |
+| Notes            | Unsaved game data is lost.                                                                                                                |
 | Author           | _Juan Dimas Abrante Hernández_                                                                                                        |
 | Date             | _29/03/23_                                                                                                                            |
 </div>
