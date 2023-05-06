@@ -39,7 +39,7 @@ This project aims to create a web application that will help people make decisio
 
 ## Index
 
-<a href="doc/anteproyecto/README.md">Preliminary project</a>
+<a href="doc/anteproyecto/README.md"> Draft </a>
 
 <a href="doc/diagrama_clases/README.md">Class diagram</a>
 
