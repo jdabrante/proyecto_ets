@@ -1,25 +1,25 @@
+from __future__ import annotations
 import filecmp
 from pathlib import Path
 from datetime import datetime
 
 
-db_path = "/home/dimas/GitHub/proyecto_ets/source/cliente/data/odds.dat"
 
+db_path = "C:/Users/19jda/Desktop/GitHub/proyecto_ets/source/cliente/data/odds.dat"
 
 class Round:
     def __init__(self, hand: str):
         self.hand = hand
         self.outcome = "unknown"
-
+    
     def update_outcome(self, outcome: str):
         self.outcome = outcome
 
-    def generate_number(self, current_game):
+    def generate_number(self, current_game: Game):
         self.number = current_game.next_available_round_id
 
     def __str__(self):
         return f"Ronda nº: {self.number}\nMano: {self.hand}\nResultado: {self.outcome}"
-
 
 class Game:
     def __init__(self, name: str):
