@@ -3,7 +3,7 @@ from pathlib import Path
 from datetime import datetime
 
 
-db_path = "/home/dimas/GitHub/proyecto_ets/source/cliente/data/odds.dat"
+db_path = "/home/dimas/Github/proyecto_ets/source/cliente/data/odds.dat"
 
 
 class Round:
