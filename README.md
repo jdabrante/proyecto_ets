@@ -1,4 +1,10 @@
-<div style="background: white">
+<div align="right">
+
+<a href="README.md">Español</a> / <a href="README_en.md">Inglés</a>
+
+</div>
+
+<div aling="center" style="background: white">
 
 <img src="doc/anteproyecto/img/Logo_prototipo.png">
 

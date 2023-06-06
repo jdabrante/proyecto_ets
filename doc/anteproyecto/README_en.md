@@ -1,3 +1,9 @@
+<div align="right">
+
+<a href="README.md">Spanish</a> / <a href="README_en.md">English</a>
+
+</div>
+
 <div align="center" bgcolor="white">
 
 <img src="img/Logo_prototipo.png" border="3px solid rgb(227, 74, 36)" width="60%">
@@ -11,19 +17,17 @@
 
 ## Descripción del problema:
 
-In poker people take a lot of decesisions that involve complex mathematical calculations. Even for advanced players retaing all the information could be a challenge. 
-
-En el poker se toman multitud de decisiones que involucran cálculos matemáticos complejos. Incluso para los jugadores avanzados retener toda esta información puede ser engorroso. Por si esto fuera poco, existe un tiempo límite para la toma de decisiones, por lo que en muchas ocasiones es necesario sacrificar precisión por velocidad.
+In poker, people make decisions involving complex mathematical calculations. Even for the profesional players retaining all that information can be a challenge. As if this were not enough, they have a deadline to make decisions, so it is often necessary to sacrifice accuracy for speed.
 
 ## Solución propuesta:
 
-Este proyecto tiene como objetivo la creación de una aplicación web para ayudar al jugador en su toma de decisiones. 
+This project aims to create a web application that will help people make decisions
 
-La aplicación constará de una interfaz gráfica donde se mostrará un mapa de manos posibles, mostrando mediante un código de colores la probabilidad de ganar con tu mano actual y la apuesta realizada.
+The application will consist of a graphical interface where a map of possible hands will be displayed, showing by means of a color code the probability of winning with the current hand and the bet placed.
 
-El jugador podrá definir las condiciones del juego (mano, apuesta, rivales, etc.) y la aplicación le orientará hacia la mejor jugada según la teoría de juego óptima (GTO).
+The player may define the conditions of the game (hand,bet,opponents,etc.) and the application will guide the player to the best play according to the optimal game theory (OGT).
 
-Las siguientes imágenes ejemplifican la idea principal:
+The followings imagenes simplify the main idea: 
 
 </div>
 
@@ -41,7 +45,7 @@ Las siguientes imágenes ejemplifican la idea principal:
 
 <br/>
 
-A continuación un prototipo de la aplicación:
+A prototype of the application is shown below: 
 
 <br/>
 
