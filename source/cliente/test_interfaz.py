@@ -25,6 +25,10 @@ def test_add_round():
     assert g.next_available_round_id == id + 1
 
 
+def test_str_round():
+    assert str(r) == f"Ronda nº: 0\nMano: AHAS\nResultado: unknown"
+
+
 def test_build_map():
     m.odds == g.hands_odds[r.hand]
     str(m) == str(g.hands_odds[r.hand])

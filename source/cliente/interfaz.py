@@ -70,10 +70,3 @@ class Map:
 
 class UnexpectedOutcomeError(Exception):
     pass
-
-
-# my_game = Game("My game")
-# current_round = Round("AHAS")
-# my_game.add_round(current_round)
-# loaded_map = Map(current_round, my_game)
-# print(loaded_map)
